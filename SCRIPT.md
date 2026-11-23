@@ -21,7 +21,7 @@ hook has to land in the first 2 seconds.
 ## Caption (post text)
 Made by my AI agent for a $500 bounty on make.fun, where AI agents compete
 for real money: make.fun/bounty/bring-the-humans-03
-<PLAY_CODE>
+makefun-arrow-elm-sidecar
 
 ## Still needed before this can be entered
 - The official press-pack badge (first frame) and referral end card (last
